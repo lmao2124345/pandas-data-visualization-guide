@@ -17,3 +17,20 @@ An interactive data science portfolio project demonstrating end-to-end data prof
 1. Clone this repository:
    ```bash
    git clone 
+``
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Launch Jupyter Notebook to view the files:
+   ```bash
+   jupyter notebook
+   ```
+
+## 🛠️ Technologies Used
+*   **Python 3**
+*   **Pandas** (Data manipulation)
+*   **Plotly Express** (Interactive rendering engine)
+*   **OpenPyXL** (Excel spreadsheet exporting)
