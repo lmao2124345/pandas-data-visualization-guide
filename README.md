@@ -14,10 +14,11 @@ An interactive data science portfolio project demonstrating end-to-end data prof
 
 ## 🚀 How to Run Locally
 
-1. Clone this repository:
-   ```bash
-   git clone 
-``
+1. How to Run Locally
+
+```bash
+git clone https://github.com
+```
 
 2. Install the required dependencies:
    ```bash
