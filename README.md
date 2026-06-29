@@ -17,7 +17,7 @@ An interactive data science portfolio project demonstrating end-to-end data prof
 1. How to Run Locally
 
 ```bash
-git clone https://github.com
+git clone https://github.com/lmao2124345/pandas-data-visualization-guide
 ```
 
 2. Install the required dependencies:
